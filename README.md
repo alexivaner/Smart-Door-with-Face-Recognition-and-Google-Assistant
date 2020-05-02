@@ -6,7 +6,7 @@
 
 ## Journal (English Version Still Not Published) and Powerpoint Slide:
 [Journal English Version](https://github.com/alexivaner/Smart-Door-with-Face-Recognition-and-Google-Assistant/raw/master/IJECE_FEB_Ivan%20Surya%20Hutomo.pdf)<br>
-[Full Powerpoint Slide](https://github.com/alexivaner/Smart-Door-with-Face-Recognition-and-Google-Assistant/raw/master/Picture%20and%20Slide/Powerpoint%20Slide.pdf)
+[Full Powerpoint Slide](https://github.com/alexivaner/Smart-Door-with-Face-Recognition-and-Google-Assistant/raw/master/Picture%20and%20Slide/Powerpoint%20Slide.pdf)<br>
 [Published Book (Petra Christian University)(Indonesia Version)](https://dewey.petra.ac.id/catalog/digital/detail?id=44553)
 
 ## Demo Video (Indonesia Version):
