@@ -10,7 +10,11 @@
 [Published Book (Petra Christian University)(Indonesia Version)](https://dewey.petra.ac.id/catalog/digital/detail?id=44553)
 
 ## Demo Video (Indonesia Version):
-[Demo Video](https://youtu.be/xZSF7dcB_MA)
+Click on the picture below:<br>
+[![Demo Video](https://i.ytimg.com/vi/xZSF7dcB_MA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC7DtYbLtg3MxJTiTJ1CcRKPSxB2A)](https://youtu.be/xZSF7dcB_MA)
+
+## 3D Printing Design:
+[Credit to HackerShack from hackster.io](https://www.hackster.io/hackershack/smartphone-connected-home-door-lock-69944f)
 
 ## Overall System Design
 ![Node-RED and Blynk](https://github.com/alexivaner/Smart-Door-with-Face-Recognition-and-Google-Assistant/raw/master/Picture%20and%20Slide/Powerpoint%20Slide/Slide15.JPG)
